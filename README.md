@@ -1,1 +1,1 @@
-# International-SEO
+After Google rolled up its core update in July 2021, keywords ranked on page 1 of Google have seen a noticeable decrease starting in August. Based on Google, the update was released to resolve domain crowding problem on SERP. In this notebook, I evaluated our fix on keyword rankings on Google using anamoly detection method
